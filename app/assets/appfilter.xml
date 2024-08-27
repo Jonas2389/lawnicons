@@ -138,9 +138,6 @@
   <item component="ComponentInfo{com.google.android.apps.docs/com.google.android.apps.docs.app.NewMainProxyActivity}" drawable="google_drive" name="Google Drive" />
   <item component="ComponentInfo{com.google.ar.lens/com.google.vr.apps.ornament.app.lens.LensLauncherActivity}" drawable="google_lens" name="Google Lens" />
   <item component="ComponentInfo{com.google.android.dialer/com.google.android.dialer.extensions.GoogleDialtactsActivity}" drawable="google_phone" name="Google Phone" />
-  <item component="ComponentInfo{com.android.vending/com.squareup.leakcanary.internal.DisplayLeakActivity}" drawable="google_play_store" name="Google Play Store" />
-  <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="google_play_store" name="Google Play Store" />
-  <item component="ComponentInfo{com.android.vending/com.google.android.finsky.activities.PlayLauncherActivity}" drawable="google_play_store" name="Google Play Store" />
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.search.assistant.surfaces.voice.robin.launcher.RobinEntryPointActivity}" drawable="google" name="Google" />
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.search.clientui.SearchServiceClientActivity}" drawable="google" name="Google" />
   <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.search.weather.entrypoints.appicon.WeatherAppIconActivity}" drawable="google" name="Google" />
@@ -215,9 +212,6 @@
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="maps" name="Google Maps" />
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.TrafficHubActivity}" drawable="maps" name="Google Maps" />
   <item component="ComponentInfo{scd.lcex/scd.lcex.ActivityMain}" drawable="matlog" name="Logs" />
-  <item component="ComponentInfo{com.google.android.apps.messaging/com.kyant.vanilla.MainActivity}" drawable="messages" name="Google Messages" />
-  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity}" drawable="messages" name="Google Messages" />
-  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.ui.ConversationListActivity}" drawable="messages" name="Google Messages" />
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.LaunchActivity}" drawable="microsoft_authenticator" name="Microsoft Authenticator" />
   <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}" drawable="microsoft_authenticator" name="Microsoft Authenticator" />
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer" />
