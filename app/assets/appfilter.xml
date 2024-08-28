@@ -572,6 +572,10 @@
   <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.activity.StartupActivity}" drawable="heymelody" name="HeyMelody" />
   <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" name="HeyMelody" />
-  <item component="{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" name="chatgpt" />
-  <item component="{com.jio.media.ondemand/com.v18.voot.features.home.ui.JVHomeActivity}" drawable="jiocinema" name="jiocinema" />
+  <item component="ComponentInfo{com.openai.chatgpt/md.elway.evo.screen.chat.ChatActivity}" drawable="chatgpt" name="ChatGPT" />
+  <item component="ComponentInfo{com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" name="ChatGPT" />
+  <item component="ComponentInfo{com.jio.media.ondemand/com.razpay.apk.HaipeeKnk}" drawable="jiocinema" name="JioCinema" />
+  <item component="ComponentInfo{com.jio.media.ondemand/com.jio.media.ondemand.view.HomeActivity}" drawable="jiocinema" name="JioCinema" />
+  <item component="ComponentInfo{com.jio.media.ondemand/com.jio.media.mobile.apps.jioondemand.splash.SplashScreenActivity}" drawable="jiocinema" name="JioCinema" />
+  <item component="ComponentInfo{com.jio.media.ondemand/com.v18.voot.features.home.ui.JVHomeActivity}" drawable="jiocinema" name="JioCinema" />
 </resources>
