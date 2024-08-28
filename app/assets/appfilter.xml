@@ -553,4 +553,21 @@
   <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.DefaultIcon}" drawable="telegram" name="Telegram" />
   <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.messenger.PremiumIcon}" drawable="telegram" name="Telegram" />
   <item component="ComponentInfo{org.telegram.messenger.web/org.telegram.ui.LaunchActivity}" drawable="telegram" name="Telegram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.SusIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.MonetIconExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIconExtera}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.SapphireIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramDiscord}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.MonetIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.AmethystIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AmethystIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.AyuGramAlt}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.Dsgn480Icon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.GoogleIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.MonetIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.NeoIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
 </resources>
