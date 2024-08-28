@@ -572,4 +572,5 @@
   <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.activity.StartupActivity}" drawable="heymelody" name="HeyMelody" />
   <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" name="HeyMelody" />
+  <item component="com.openai.chatgpt/com.openai.chatgpt.MainActivity}" drawable="chatgpt" name="chatgpt" />
 </resources>
