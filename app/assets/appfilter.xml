@@ -578,4 +578,5 @@
   <item component="ComponentInfo{com.jio.media.ondemand/com.jio.media.ondemand.view.HomeActivity}" drawable="jiocinema" name="JioCinema" />
   <item component="ComponentInfo{com.jio.media.ondemand/com.jio.media.mobile.apps.jioondemand.splash.SplashScreenActivity}" drawable="jiocinema" name="JioCinema" />
   <item component="ComponentInfo{com.jio.media.ondemand/com.v18.voot.features.home.ui.JVHomeActivity}" drawable="jiocinema" name="JioCinema" />
+  <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave" name="Brave" />
 </resources>
