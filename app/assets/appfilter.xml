@@ -570,4 +570,6 @@
   <item component="ComponentInfo{org.telegram.messenger.web/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{com.radolyn.ayugram/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
   <item component="ComponentInfo{org.telegram.messenger/com.exteragram.messenger.DefaultIcon}" drawable="ayugram" name="AyuGram" />
+  <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.activity.StartupActivity}" drawable="heymelody" name="HeyMelody" />
+  <item component="ComponentInfo{com.heytap.headset/com.heytap.headset.component.startup.StartupActivity}" drawable="heymelody" name="HeyMelody" />
 </resources>
