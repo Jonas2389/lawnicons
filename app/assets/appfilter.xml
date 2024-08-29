@@ -219,13 +219,6 @@
   <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.TextEditorActivity}" drawable="mixplorer" name="MiXplorer" />
   <item component="ComponentInfo{com.mixplorer.beta/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer Beta" />
   <item component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer" name="MiXplorer Silver" />
-  <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainDarkIcon}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainLightIcon}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.MainNoBgIcon}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus.canary/bin.mt.plus.MainDarkIcon}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus.canary/bin.mt.plus.MainLightIcon}" drawable="mt_manager" name="MT Manager" />
-  <item component="ComponentInfo{bin.mt.plus.canary/bin.mt.plus.MainNoBgIcon}" drawable="mt_manager" name="MT Manager" />
   <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" name="MX Player" />
   <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.MainActivity}" drawable="mx_player" name="MX Player" />
   <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ActivityMediaList}" drawable="mx_player" name="MX Player" />
@@ -259,20 +252,6 @@
   <item component="ComponentInfo{com.pinterest.twa/com.pinterest.twa.LauncherActivity}" drawable="pinterest" name="Pinterest Lite" />
   <item component="ComponentInfo{de.dertyp7214.rboardthememanager.debug/de.dertyp7214.rboardthememanager.screens.MainActivity}" drawable="rboard" name="Rboard Theme Manager" />
   <item component="ComponentInfo{org.lineageos.recorder/org.lineageos.recorder.RecorderActivity}" drawable="recorder" name="Recorder" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.neon}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.alien_blue}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.astronaut}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.planet}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.pullover}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.tothemoon}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.redditgifts}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.amazedoge}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.classic}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.default}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.doge}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.retro}" drawable="reddit" name="Reddit" />
-  <item component="ComponentInfo{com.reddit.frontpage/launcher.wallstreet}" drawable="reddit" name="Reddit" />
   <item component="ComponentInfo{com.revanced.net.revancedmanager/com.revanced.net.revancedmanager.MainActivity}" drawable="revanced_manager" name="ReVanced Manager" />
   <item component="ComponentInfo{app.revanced.manager.flutter.profile/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" name="ReVanced Manager" />
   <item component="ComponentInfo{app.revanced.manager.flutter/app.revanced.manager.flutter.MainActivity}" drawable="revanced_manager" name="ReVanced Manager" />
