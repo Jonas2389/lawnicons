@@ -575,5 +575,6 @@
   <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SKSamsungMainActivity}" drawable="galaxy_store" name="Galaxy Store" />
   <item component="ComponentInfo{com.fast.free.unblock.secure.vpn/com.signallab.secure.activity.SplashActivity}" drawable="secure_vpn" name="Secure VPN" />
   <item component="{com.anilab.android/com.anilab.android.ui.activity.MainActivity}" drawable="anilab" name="anilab" />
-  <item component="{com.flipkart.android/com.flipkart.android.SplashActivityr}" drawable="flipkart" name="flipkart" />
+  <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.Flipkart}" drawable="flipkart" name="FlipKart" />
+  <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" name="FlipKart" />
 </resources>
