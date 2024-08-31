@@ -577,4 +577,7 @@
   <item component="{com.anilab.android/com.anilab.android.ui.activity.MainActivity}" drawable="anilab" name="Anilab" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.Flipkart}" drawable="flipkart" name="FlipKart" />
   <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" name="FlipKart" />
+  <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.HomeActivity}" drawable="google_translate" name="Google Translate" />
+  <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate" name="Google Translate" />
+  <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="google_translate" name="Google Translate" />
 </resources>
