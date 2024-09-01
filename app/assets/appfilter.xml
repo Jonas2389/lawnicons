@@ -582,13 +582,13 @@
   <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="google_translate" name="Google Translate" />
   <item component="ComponentInfo{com.sec.android.app.camera/.Camera}" drawable="camera" name="Camera" />
   <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}" drawable="camera" name="Camera" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.ForMyFilesAppIconInHomeScreenActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/.common.MainActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.LaunchActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles}" drawable="files" name="Samsung My Files" />
-  <item component="ComponentInfo{com.sec.android.app.myfiles/.external.ui.MainActivity}" drawable="files" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.MainActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.ui.ForMyFilesAppIconInHomeScreenActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/.common.MainActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.common.MainActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.LaunchActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.Myfiles}" drawable="myfiles" name="Samsung My Files" />
+  <item component="ComponentInfo{com.sec.android.app.myfiles/.external.ui.MainActivity}" drawable="myfiles" name="Samsung My Files" />
 </resources>
