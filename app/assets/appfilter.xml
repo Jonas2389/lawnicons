@@ -586,4 +586,6 @@
   <item component="ComponentInfo{mark.via/mark.via.Shell}" drawable="via_browser" name="Via Browser" />
   <item component="ComponentInfo{mark.via.gp/mark.via.Shell}" drawable="via_browser" name="Via Browser" />
   <item component="ComponentInfo{mark.via.gp/mark.via.ui.activity.BrowserActivity}" drawable="via_browser" name="Via Browser" />
+  <item component="ComponentInfo{com.google.android.apps.photosgo/com.google.android.apps.photosgo.home.HomeActivity}" drawable="google_gallery" name="Gallery" />
+  <item component="ComponentInfo{com.google.android.apps.messaging/com.google.android.apps.messaging.main.MainActivity.icon1}" drawable="messages_alt" name=" Messages" />
 </resources>
