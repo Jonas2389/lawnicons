@@ -591,7 +591,15 @@
   <item component="ComponentInfo{com.samsung.android.dialer/com.samsung.android.dialer.DialtactsActivity.icon1}" drawable="phone_alt" name="Phone" />
   <item component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera.icon1}" drawable="camera_alt" name="Camera" />
   <item component="{com.sec.android.app.myfiles/com.sec.android.app.myfiles.external.ui.MainActivity}" drawable="my_files" name="My Files" />
-  <item component="{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}" drawable="reminder" name="Reminder" />
-  <item component="{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivity}" drawable="google_meet" name="Google Meet" />
+  <item component="ComponentInfo{com.google.android.apps.tachyon/com.google.android.apps.tachyon.MainActivitySecondLauncher}" drawable="google_meet" name="Google Meet" />
+  <item component="ComponentInfo{com.google.android.apps.meetings/com.google.android.apps.meetings.splash.SplashActivity}" drawable="google_meet" name="Google Meet" />
+  <item component="ComponentInfo{com.samsung.android.app.reminder/com.samsung.android.app.reminder.ui.LaunchMainActivity}" drawable="reminder" name="Samsung Reminder" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.AlarmActivity}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="clock" name="Clock" />
+  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="clock" name="Clock" />
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity.icon1}" drawable="twitter_bird" name="X" />
 </resources>
