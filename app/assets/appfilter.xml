@@ -602,4 +602,35 @@
   <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="clock" name="Clock" />
   <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="clock" name="Clock" />
   <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity.icon1}" drawable="twitter_bird" name="X" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.VhsAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.BlackMarbleAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.SnappyDoodleAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.AiWaveAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.SharpieDoodleAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.NeonAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.ColorRibbonsAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.SilkAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.NeonGhostAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.VDayChromeAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.PlushAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.ChromeDripAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.DeniseAbAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.DiwaliGoldFrameAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.EdgyTextAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.Icon22Alias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.PixelAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.PlusBlackAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.PurpleAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.RetroCartoonAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.SnapBalloonAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.TealAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.thanksgivingleafAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.XrayGhostAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.YellowPinkAlias}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LauncherActivity}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.deeplink.DeepLinkActivity}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.HomeActivity}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snapchat.android.LandingPageActivity}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/com.snap.mushroom.MushroomMainActivity}" drawable="snapchat" name="Snapchat" />
+  <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="snapchat" name="Snapchat" />
 </resources>
